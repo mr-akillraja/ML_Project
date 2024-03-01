@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/mraki/Documents/python_programs/Deep_Learning/Projects/Student_Performance_Prediction/Projects\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
